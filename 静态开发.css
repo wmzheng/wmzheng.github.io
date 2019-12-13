@@ -199,10 +199,10 @@ body{
 /*底部*/
 .dibu{
     margin-top: 100px;
-    float: left;
+    float: center;
     background-color: #25220c;
     width: 100%;
-    height: 100px;
+    height: 50px;
     padding: 30px;
-    color: #bbbbbb;
+    color: #ffffff;
 }
