@@ -1,9 +1,9 @@
 # robots.txt generated at http://tool.chinaz.com/robots
 User-agent:Google-adstxt
-Disallow:
+Allow:/
 User-agent:Mediapartners-Google
-Disallow:
+Allow:/
 User-agent:Googlebot
-Disallow:
+Allow:/
 User-agent:*
 Allow:/
